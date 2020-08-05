@@ -1,0 +1,16 @@
+{
+  "disciplina": [
+    {
+      "id": 1,
+      "nome": "WEB",
+      "curso": "SI",
+      "capacidade": 9
+    },
+    {
+      "nome": "CSGBD",
+      "curso": "SI",
+      "capacidade": "50",
+      "id": 2
+    }
+  ]
+}
