@@ -1,1 +1,4 @@
-# WEB_2020.1
+##  Desenvolvimento WEB
+
+ -    Disciplina pratica que introduziu conceitos de uma nova linguagem.
+
